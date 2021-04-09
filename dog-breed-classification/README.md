@@ -14,5 +14,5 @@ You can download human dataset from the following link: http://vis-www.cs.umass.
 run_app(img_path)
 ```
 
-## Project Repository:
+## Udacity Project Repository
 https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification
